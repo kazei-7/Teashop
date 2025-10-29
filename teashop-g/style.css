@@ -1,0 +1,138 @@
+
+@media only screen and (max-width: 417px) {
+ .formboite{
+
+      margin-right: 200px;
+
+ }
+}
+
+.titrec{
+
+font-size: 45px;
+padding-bottom: 50px;
+}
+
+
+.titresb {
+
+color: rgb(242, 233, 233) ;
+
+}
+
+body {
+    background: #e7e4e4;
+    scroll-behavior: smooth;
+   
+  }
+ 
+  
+
+  .nav-link {
+
+color: #000000;
+
+
+  }
+.nav-link:hover {
+
+
+  color: #1b3e10;
+}
+  
+.thbioetnaturel {
+
+display: flex;
+justify-content: center;
+color: #2c6718;
+
+}
+
+.col :hover {
+
+
+color: #225412;
+
+
+}
+
+.col :hover {
+  box-shadow: 12px 12px 2px 1px rgba(141, 243, 158, 0.2);
+border-radius: 3%;
+
+
+}
+
+.notreHistoire{
+
+background-color: #bfdfc4;
+height: 400px;
+
+}
+
+.texteP {
+
+display: flex;
+justify-content: center;
+
+margin-top: 125px;
+
+}
+
+
+
+#titrecontact{
+
+color: #2c6718;
+
+}
+  .imagedefond{
+
+
+
+    background-image: url(ImagesSite/aniketh-kanukurthi-Qaor6nxikUM-unsplash.jpg);
+   
+  }
+
+
+  .formboite {
+    max-width: 500px;
+    margin: 180px;
+    margin-left: 35%;
+   padding-top: 40px;
+    padding: 60px;
+    background: #fbfbfb;
+
+  }
+  
+  h1, p {
+    text-align: center;
+  }
+  
+  input, textarea {
+    width: 100%;
+  }
+
+  .textmentions {
+display: flex;
+justify-content: center;
+    
+  }
+
+.listepol
+{
+
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+   
+}
+
+
+
+  .titresecondpol{
+  
+display: flex;
+justify-content: center;
+
+  }
